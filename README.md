@@ -23,21 +23,21 @@
 ### ⚡️ AI & Robotics Engineering Student ⚡️
 
 <p>
-  👋 أهلاً! أنا <b>حنين</b>. مهندسة برمجيات طموحة متخصصة في الذكاء الاصطناعي والروبوتات.<br/>
-  💻 أركز حالياً على تطوير أنظمة الـ <b>Computer Vision</b> وتكاملها مع الـ <b>Embedded Systems</b>.<br/>
-  🚀 شغفي يكمن في ابتكار حلول تقنية ذكية تعتمد على الـ <b>Deep Learning</b> لتحسين التفاعل بين الإنسان والآلة.<br/>
-  🛠️ أهتم ببناء معمارية أنظمة (<b>System Architecture</b>) قوية ومنظمة تضمن كفاءة الحلول البرمجية.
+  👋 Hi there! I'm <b>Haneen</b>, an aspiring Software Engineer specialized in Artificial Intelligence and Robotics. <br/>
+  💻 Currently focusing on developing <b>Computer Vision</b> systems and integrating them with <b>Embedded Systems</b>. <br/>
+  🚀 Passionate about creating intelligent tech solutions using <b>Deep Learning</b> to enhance Human-Computer Interaction. <br/>
+  🛠️ Interested in building robust <b>System Architecture</b> that ensures scalable and efficient software solutions.
 </p>
 
-### 🛠️ المهارات الأساسية
-- **الذكاء الاصطناعي:** معالجة الصور (Computer Vision)، التعامل مع النماذج المدربة مسبقاً، وإعداد البيانات.
-- **تطوير الويب:** بناء واجهات المستخدم (Frontend) وفهم أساسيات الربط مع السيرفرات (Node.js).
-- **التصميم الهندسي:** تخطيط تدفق البيانات (Data Flow) وتصميم واجهات المستخدم عبر Figma.
-- **إدارة المشاريع البرمجية:** استخدام Git و GitHub لتنظيم وإدارة النسخ البرمجية بكفاءة.
+### 🛠️ Technical Skills
+- **Artificial Intelligence:** Computer Vision, Pre-trained Models, Dataset Preparation, and Image Processing.
+- **Web Development:** Frontend Architecture (HTML/CSS) and Backend fundamentals (Node.js/Express).
+- **Engineering Design:** Data Flow Mapping, System Architecture, and UI/UX Design via Figma.
+- **Project Management:** Version Control using Git & GitHub to manage complex codebases.
 
 ---
 
 <p align="center">
-  <b>كود نظيف.. مستقبل أفضل</b> 🚀<br/>
+  <b>Clean Code.. Better Future</b> 🚀<br/>
   <i>RevealTech_2026</i>
 </p>
